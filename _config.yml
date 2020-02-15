@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "게임하는 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "공부하는 Minho"
   avatar           : "/assets/images/profile.png"
-  bio              : "메이플스토리를 즐겨하는 <br> 게임하는 개발자"
+  bio              : "Level : 1<br>초보 개발자"
   location         : "South Korea"
   email            : 
   links:
