@@ -1,6 +1,8 @@
 ﻿# main links
 main:
-  - title: "블로그 시작하기"
+  - title: "블로그 방문하기"
     url: https://swagmh.github.io/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/
